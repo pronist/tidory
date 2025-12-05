@@ -2,7 +2,7 @@ const ESLintPlugin = require('eslint-webpack-plugin')
 
 /**
  * Tidory Configuration
- * @see https://tidory.github.io/docs/configuration/
+ * @see https://github.com/pronist/tidory/wiki/Configuration
  */
 module.exports = {
   ts_session: '',
